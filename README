@@ -1,0 +1,12 @@
+fbPhotos, Your Facebook Album Photos jQuery plugin
+
+fbPhotos es un plugin de jQuery muy sencillo que te permitirá añadir fotos de tus álbums de Facebook de manera sencilla. Emplea la Graph API de facebook que nos sirve para recuperar cualquier tipo de contenido.
+
+Creado para fines didácticos y como ejemplo práctico de uso de la graph api.
+
+Más info en la entrada de blog de Strabinarius: http://strabinarius.com/node/258
+
+You may find some interesting information on this fiddles:
+
+- http://jsfiddle.net/dcanetma/xptTA/4/
+- http://jsfiddle.net/dcanetma/UNN6y/6/
